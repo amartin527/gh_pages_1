@@ -1,8 +1,8 @@
 {
+  "homepage": "https://amartin527.github.io/gh_pages_1",
   "name": "gh_pages_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://amartin527.github.io/gh_pages_1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
